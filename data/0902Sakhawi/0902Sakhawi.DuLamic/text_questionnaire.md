@@ -18,7 +18,7 @@ Type your response here.
 
 ## 4. Add any comments on the text
 
-Type your response here
+Some names are not complete and have apparently only partly been transferred into the .ara file. 
 
 ## 5. ...
 
