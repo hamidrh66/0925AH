@@ -17,8 +17,10 @@ Continously throughout the text.
 
 Some names are not complete and have apparently only partly been transferred into the .ara file. 
 Volume 7 Entry No. 79 is missing. Some parts of names are missing all over the text
+Volume 7 Entry No. 509 is missing, except it's last line/
 
 ## 5. Volume 2 between page 67 and 69 was a clusterfuck of doubled entries and
 missing pagination. I corrected that.
+{
 
 ## Comments by : [Christoph Guemmer]
