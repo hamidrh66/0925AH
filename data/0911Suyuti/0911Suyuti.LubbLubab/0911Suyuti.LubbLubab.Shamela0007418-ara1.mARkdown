@@ -1,43 +1,42 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: Shamela_0007418
-#NewRec# 000.BookURI	:: #0911.Suyuti.LubbLubab
-#NewRec# 010.AuthorAKA	:: NODATA
-#NewRec# 010.AuthorNAME	:: عبد الرحمن بن أبي بكر، جلال الدين السيوطي (المتوفى: 911هـ)
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: 911
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: لب اللباب في تحرير الأنساب
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: الأنساب
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: NODATA
-#NewRec# 030.LibURI	:: Shamela_0007418
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-7418
-#NewRec# 031.LibURL	:: http://shamela.ws/index.php/book/7418
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: NODATA
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار صادر - بيروت
-#NewRec# 044.EdPLACE	:: NODATA
-#NewRec# 045.EdYEAR	:: NODATA
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: Shamela_0007418
+#META# 000.BookURI	:: #0911.Suyuti.LubbLubab
+#META# 010.AuthorAKA	:: NODATA
+#META# 010.AuthorNAME	:: عبد الرحمن بن أبي بكر، جلال الدين السيوطي (المتوفى: 911هـ)
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 911
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: لب اللباب في تحرير الأنساب
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: الأنساب
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: NODATA
+#META# 030.LibURI	:: Shamela_0007418
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-7418
+#META# 031.LibURL	:: http://shamela.ws/index.php/book/7418
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: NODATA
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار صادر - بيروت
+#META# 044.EdPLACE	:: NODATA
+#META# 045.EdYEAR	:: NODATA
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
-#####ARABICA#SUBJECT#XXX#
+#META#Header#End#
 ### | بسم الله الرحمن الرحيم
 # وبه ثقتي الحمد لله المتنزه عن الأشباه والأنساب، وأشهد أن لا إله إلا الله وحده
 ~~لا شريك له خالصة من الشك والارتياب، وأشهد أن محمدا عبده ورسوله المخصوص
