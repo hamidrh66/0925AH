@@ -14,11 +14,12 @@ Type your response here.
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+Here and there. Guesstimate 10.
 
 ## 4. Add any comments on the text
 
-Type your response here
+Some names are not complete and have apparently only partly been transferred into the .ara file. 
+Volume 7 Entry No. 79 is missing.
 
 ## 5. ...
 
