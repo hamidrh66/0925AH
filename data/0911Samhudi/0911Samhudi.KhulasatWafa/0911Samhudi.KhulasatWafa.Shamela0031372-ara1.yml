@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 691654
 00#VERS#LENGTH###: 166547
-00#VERS#URI######: 0911Samhudi.KhulasatWafa.Shamela0031372-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+00#VERS#URI######: 0911Samhudi.KhulasatWafa.Shamela0031372-ara1.completed
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770178386
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770178386
+80#VERS#LINKS####: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AE%D9%84%D8%A7%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-%D8%A8%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AC%D9%84%D8%AF%D8%A7%D9%86-pdf
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Small sections of text are missing, especially at page divisions (e.g. pg. 29,35 ). Parts missing from pg. 52, vol. 2. p59. Occasionally parts are duplicated. Some spelling mistakes. The odd title is ommitted (e.g. pg. 201). Pagination is not always consistent. Figures on vol 2 pgs. 134, 9, 41, 4    
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PAGINATION, MISSING_PARTS, MANY_TYPOS
